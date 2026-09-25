@@ -98,3 +98,9 @@ Version orientée proximité, prix et preuve visuelle.
 - 4 photos de galerie recréées directement à partir des fichiers originaux haute résolution
 - Compression JPEG de qualité élevée, sans agrandissement artificiel
 - Zoom au survol réduit pour préserver la netteté
+
+
+## V6.13 — 2 premières cartes galerie remplacées
+- carte 1 : gros plan net du robot
+- carte 2 : image plus lisible sur bâtiment industriel
+- nouveaux noms de fichiers pour éviter le cache
