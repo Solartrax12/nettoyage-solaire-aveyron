@@ -17,3 +17,7 @@ Correctif d'affichage : galerie verrouillée en mosaïque 1 grande photo + 2 pet
 
 ## V4.2
 Palette revue : bleu profond / bleu ardoise / ivoire / sable / accent doré. Suppression du vert dominant.
+
+
+## V4.3
+Cache forcé : la page utilise désormais `styles-v43.css` et `logo-v43.svg`, ce qui empêche Chrome de conserver l'ancienne palette verte ou l'ancien correctif de galerie.
