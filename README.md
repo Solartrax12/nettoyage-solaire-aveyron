@@ -30,3 +30,11 @@ Version orientée proximité, prix et preuve visuelle.
 - Correction du compteur animé : `4,9/5` et `≈ 500 kWc` conservent désormais leurs unités
 - Espacement du menu légèrement resserré
 - Nouveau CSS `styles-v62.css` et JS `script-v62.js` pour éviter le cache
+
+
+## V6.3 — Logo visible
+- Nouveau lockup horizontal dans le header : emblème + nom de marque
+- Logo plus lisible sans empiéter sur la photo principale
+- Header légèrement plus haut
+- Valeurs `4,9/5` et `≈ 500 kWc` rendues statiques pour garantir leur affichage
+- Nouveau CSS `styles-v63.css` et JS `script-v63.js`
