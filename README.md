@@ -89,3 +89,12 @@ Version orientée proximité, prix et preuve visuelle.
 - Utilisation de l'emblème complet, recadré proprement
 - Nom « Nettoyage Solaire » + « Aveyron » rendu en HTML pour rester parfaitement lisible
 - Nouveau CSS/JS pour éviter le cache
+
+
+## V6.11 — Logo compact et photos nettes
+- Suppression du rectangle blanc autour du logo
+- Emblème PNG transparent + nom de marque en HTML
+- Header plus compact et règles CSS isolées des anciennes versions
+- 4 photos de galerie recréées directement à partir des fichiers originaux haute résolution
+- Compression JPEG de qualité élevée, sans agrandissement artificiel
+- Zoom au survol réduit pour préserver la netteté
