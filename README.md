@@ -45,3 +45,14 @@ Version orientée proximité, prix et preuve visuelle.
 - Emblème + « NETTOYAGE SOLAIRE » + « AVEYRON » intégrés dans le même fichier
 - Plus de dépendance au rendu CSS du texte du logo
 - Nouveau `styles-v64.css` et `script-v64.js` pour forcer un rechargement propre
+
+
+## V6.5 — Sans prix publics + bâtiments industriels
+- Suppression de tout prix affiché sur le site
+- « Tarifs » remplacé par « Interventions » dans la navigation
+- Ajout explicite des bâtiments industriels & tertiaires
+- 4 catégories : particuliers, agricole, industrie/tertiaire, grandes centrales
+- Conservation des interventions groupées sans afficher de tarif
+- Correction des ancres masquées par le header sticky
+- Photos de galerie rendues distinctes des grandes photos déjà utilisées ailleurs
+- Espacement de « Pourquoi nous choisir ? » légèrement resserré
