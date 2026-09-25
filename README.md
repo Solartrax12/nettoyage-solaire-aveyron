@@ -82,3 +82,10 @@ Version orientée proximité, prix et preuve visuelle.
 - Bloc devis final simplifié
 - Indication pratique pour envoyer 2 ou 3 photos via WhatsApp
 - Effets visuels conservés mais sans surcharge
+
+
+## V6.10 — Logo header corrigé
+- Suppression du logo horizontal recadré qui coupait l'identité visuelle
+- Utilisation de l'emblème complet, recadré proprement
+- Nom « Nettoyage Solaire » + « Aveyron » rendu en HTML pour rester parfaitement lisible
+- Nouveau CSS/JS pour éviter le cache
