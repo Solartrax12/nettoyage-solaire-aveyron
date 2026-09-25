@@ -73,3 +73,12 @@ Version orientée proximité, prix et preuve visuelle.
 - Mention d'exploitant conservée uniquement dans la grande section dédiée
 - Suppression de la quantité en kWc
 - La bande de preuves ne mentionne plus de puissance exploitée
+
+
+## V6.9 — Finition commerciale
+- Section Interventions clarifiée en 4 segments
+- Bâtiments industriels & professionnels davantage mis en avant
+- Galerie renommée « Quelques chantiers en Aveyron »
+- Bloc devis final simplifié
+- Indication pratique pour envoyer 2 ou 3 photos via WhatsApp
+- Effets visuels conservés mais sans surcharge
