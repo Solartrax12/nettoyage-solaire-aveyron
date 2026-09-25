@@ -1,4 +1,4 @@
-# Nettoyage Solaire Aveyron — V1
+# Nettoyage Solaire Aveyron — V2 allégée
 
 Site statique sans framework : **aucun build n'est nécessaire**.
 
@@ -28,3 +28,7 @@ Le formulaire ne stocke aucune donnée sur le site. Il prépare un message Whats
 
 ## Mise en ligne
 Le site peut être hébergé comme site statique (Netlify, Cloudflare Pages, GitHub Pages, etc.) ou importé dans Bolt uniquement pour l'aperçu/édition.
+
+
+## V2
+Page d'accueil simplifiée : moins de texte, suppression de la FAQ et du bloc technique détaillé, priorité aux services, preuves, réalisations et devis.
