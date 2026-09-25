@@ -65,3 +65,11 @@ Version orientée proximité, prix et preuve visuelle.
   - Exploitants photovoltaïques nous-mêmes
   - Matériel professionnel
 - Le devis reste présenté plus bas au moment du passage à l'action
+
+
+## V6.7 — Équilibre des messages
+- Retour du cadre « Devis simple » dans « Pourquoi nous choisir ? »
+- Suppression du doublon « exploitants photovoltaïques » dans ce même bloc
+- Mention d'exploitant conservée uniquement dans la grande section dédiée
+- Suppression de la quantité en kWc
+- La bande de preuves ne mentionne plus de puissance exploitée
