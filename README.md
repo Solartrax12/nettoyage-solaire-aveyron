@@ -14,3 +14,11 @@ Version orientée proximité, prix et preuve visuelle.
 - Compteurs animés
 - Zoom léger sur certaines photos
 - Formulaire WhatsApp
+
+
+## V6.1 — Finitions
+- Logo réduit et contenu entièrement dans le bandeau blanc
+- Titre hero légèrement resserré pour éviter 4 lignes sur desktop
+- Chiffres clés plus lisibles et hiérarchisés
+- Icônes de la bande de preuves rendues plus discrètes
+- Nouveau fichier `styles-v61.css` pour forcer le rechargement du navigateur
