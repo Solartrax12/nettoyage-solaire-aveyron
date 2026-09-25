@@ -104,3 +104,10 @@ Version orientée proximité, prix et preuve visuelle.
 - carte 1 : gros plan net du robot
 - carte 2 : image plus lisible sur bâtiment industriel
 - nouveaux noms de fichiers pour éviter le cache
+
+
+## V6.14 — Galerie plus lisible
+- 4 nouvelles images de galerie recadrées en 4:3
+- passage de 4 colonnes à 2 colonnes sur desktop pour rendre les photos bien plus lisibles
+- hauteur des visuels augmentée
+- nouveaux noms de fichiers CSS/JS pour éviter le cache
