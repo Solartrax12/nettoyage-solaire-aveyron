@@ -111,3 +111,18 @@ Version orientée proximité, prix et preuve visuelle.
 - passage de 4 colonnes à 2 colonnes sur desktop pour rendre les photos bien plus lisibles
 - hauteur des visuels augmentée
 - nouveaux noms de fichiers CSS/JS pour éviter le cache
+
+
+## V6.15 — Galerie 3 photos
+- galerie réduite à 3 visuels pour rendre chaque chantier plus lisible
+- photos choisies parmi les nouvelles images fournies
+- format 16:9 conservé au maximum pour limiter les recadrages
+- suppression du zoom au survol pour préserver la netteté
+- 3 cartes : Robot en action / Exploitation agricole / Résultat visible
+
+
+## V6.16 — Galerie 6 photos
+- 6 photos différentes, en 2 rangées de 3 sur desktop
+- format 16:9 homogène
+- aucune animation de zoom sur les photos
+- sélection axée sur robot, grandes toitures, bâtiment professionnel, résultat, proximité et exploitation agricole
