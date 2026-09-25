@@ -38,3 +38,10 @@ Version orientée proximité, prix et preuve visuelle.
 - Header légèrement plus haut
 - Valeurs `4,9/5` et `≈ 500 kWc` rendues statiques pour garantir leur affichage
 - Nouveau CSS `styles-v63.css` et JS `script-v63.js`
+
+
+## V6.4 — Header logo robuste
+- Logo du header transformé en une seule image horizontale
+- Emblème + « NETTOYAGE SOLAIRE » + « AVEYRON » intégrés dans le même fichier
+- Plus de dépendance au rendu CSS du texte du logo
+- Nouveau `styles-v64.css` et `script-v64.js` pour forcer un rechargement propre
