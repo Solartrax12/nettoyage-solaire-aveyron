@@ -56,3 +56,12 @@ Version orientée proximité, prix et preuve visuelle.
 - Correction des ancres masquées par le header sticky
 - Photos de galerie rendues distinctes des grandes photos déjà utilisées ailleurs
 - Espacement de « Pourquoi nous choisir ? » légèrement resserré
+
+
+## V6.6 — Différenciateurs
+- Suppression du doublon « Devis ajusté / Devis simple »
+- Mise en avant de 3 vrais différenciateurs :
+  - Proximité
+  - Exploitants photovoltaïques nous-mêmes
+  - Matériel professionnel
+- Le devis reste présenté plus bas au moment du passage à l'action
