@@ -1,14 +1,14 @@
-V6.19 — identité visuelle harmonisée + formulation plus commerciale
+V6.22 — refonte plus attractive
 
-Changements :
-- palette graphite / gris / blanc inspirée du logo des cartes de visite
-- suppression de « Professionnels en priorité »
-- remplacement par « Agricole • Industrie • Tertiaire »
-- hero reformulé sans notion de priorité, tout en présentant d'abord les clientèles professionnelles
-- bouton SMS harmonisé avec la nouvelle palette
-- conservation du SMS et du champ « Puissance / surface approximative »
+Fichiers à envoyer sur GitHub :
+- index.html
+- styles-v622.css
 
-Pour mise à jour rapide sur GitHub :
-1. remplacer index.html à la racine
-2. ajouter styles-v619.css à la racine
-3. conserver script-v618.js et le logo si déjà présents
+Le reste ne change pas.
+
+Principales évolutions :
+- preuves en cartes sombres flottantes
+- section « Pourquoi » totalement revue avec une vraie photo et une composition éditoriale
+- alternance de fonds clairs / sombres pour donner du rythme
+- accent solaire plus franc, mais contenu dans les CTA et détails
+- rendu davantage orienté entreprise / professionnel
