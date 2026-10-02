@@ -1,13 +1,14 @@
-V6.18 — SMS + logo cartes de visite
+V6.19 — identité visuelle harmonisée + formulation plus commerciale
 
-Fichiers à mettre en ligne :
-- index.html à la racine du dépôt
-- script-v618.js à la racine du dépôt
-- assets/logo-cartes-visite-v618.jpg dans le dossier assets
+Changements :
+- palette graphite / gris / blanc inspirée du logo des cartes de visite
+- suppression de « Professionnels en priorité »
+- remplacement par « Agricole • Industrie • Tertiaire »
+- hero reformulé sans notion de priorité, tout en présentant d'abord les clientèles professionnelles
+- bouton SMS harmonisé avec la nouvelle palette
+- conservation du SMS et du champ « Puissance / surface approximative »
 
-Modifications :
-- logo officiel des cartes de visite dans l'en-tête et le pied de page
-- bouton hero "Envoyer un SMS"
-- formulaire de devis ouvre l'application SMS au lieu de WhatsApp
-- lien SMS direct dans le bloc contact
-- priorité professionnels et puissance/surface approximative conservées depuis V6.17
+Pour mise à jour rapide sur GitHub :
+1. remplacer index.html à la racine
+2. ajouter styles-v619.css à la racine
+3. conserver script-v618.js et le logo si déjà présents
