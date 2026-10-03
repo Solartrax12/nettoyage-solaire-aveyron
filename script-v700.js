@@ -1,0 +1,5 @@
+
+const menu=document.querySelector('.menu-btn'),links=document.querySelector('.navlinks');
+if(menu){menu.addEventListener('click',()=>{const o=links.classList.toggle('open');menu.setAttribute('aria-expanded',o)});links.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>links.classList.remove('open')))}
+const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target)}}),{threshold:.12});document.querySelectorAll('.reveal').forEach(e=>io.observe(e));
+const f=document.getElementById('quoteForm');if(f)f.addEventListener('submit',e=>{e.preventDefault();const v=id=>document.getElementById(id).value.trim();let m='Bonjour, je souhaite un devis pour le nettoyage de panneaux photovoltaïques.';if(v('qname'))m+='\nNom : '+v('qname');if(v('qphone'))m+='\nTéléphone : '+v('qphone');if(v('qcity'))m+='\nCommune : '+v('qcity');if(v('qsize'))m+='\nPuissance / surface : '+v('qsize');if(v('qmsg'))m+='\nDemande : '+v('qmsg');location.href='sms:+33678580334?body='+encodeURIComponent(m)});

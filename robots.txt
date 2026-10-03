@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://nettoyage-solaire-aveyron.fr/sitemap.xml
